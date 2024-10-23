@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**Liopin/Liopin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me🙍‍♂️
+I'm Lionel and I do things online
 
-Here are some ideas to get you started:
+## Technical skills 🛠️
+- Languages: HTML5, CSS3, Javascript, Go
+- Frameworks and libraries: React, NextJS, Nodejs
+- Tools & Platforms: Github, Azure, AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Key projects 📚
+
+## Profisional goals🚀
+
+## Contact me 📫 
