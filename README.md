@@ -25,7 +25,7 @@
 **Tools I love**
 - Git & GitHub
 - VS Code (trying out Emacs!)
-- Terminal life 💻
+- Terminal
 
 ## 🌱 What I'm learning
 
