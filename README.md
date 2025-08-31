@@ -39,7 +39,7 @@ Currently diving deep into:
 ### 💼 [Job Listing Platform](https://github.com/LionelPinheiroDuarte/job-listing)
 A modern job board application showcasing my full-stack development skills. Built to demonstrate clean architecture, responsive design, and practical problem-solving for real-world scenarios.
 
-**Tech highlights**: Modern web technologies, responsive UI, clean code practices
+**Tech highlights**: Docker, Grafana, Prometheus
 
 ---
 
@@ -49,6 +49,6 @@ A modern job board application showcasing my full-stack development skills. Buil
 
 ## 📫 Let's connect!
 
-- 💼 **Portfolio**: [lionelpinheiroduarte.com](https://lionelpinheiroduarte.com
+- 💼 **Portfolio**: [lionelpinheiroduarte.com](https://lionelpinheiroduarte.com)
 
 ---
