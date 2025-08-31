@@ -3,7 +3,7 @@
 ## 🚀 What I'm up to
 
 - 🔍 **Looking for** a **Junior DevOps** role
-- 📚 **Currently learning**: Terraform, GitHub Actions, and the whole cloud ecosystem
+- 📚 **Currently learning**: Terraform, GitHub Actions, Prometheus, Grafana
 - 🎯 **2025 Goals**:
   - [ ] **Terraform Associate** certification
   - [ ] **LPI Linux Essentials** certification
@@ -26,13 +26,6 @@
 - Git & GitHub
 - VS Code (trying out Emacs!)
 - Terminal
-
-## 🌱 What I'm learning
-
-Currently diving deep into:
-- **Infrastructure as Code** with Terraform
-- **CI/CD pipelines** with GitHub Actions
-- **Monitoring & observability** with Prometheuse and Grafana
 
 ## 🎯 Featured projects
 
