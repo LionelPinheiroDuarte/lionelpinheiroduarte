@@ -2,9 +2,9 @@
 
 ## 🚀 What I'm up to
 
-- 🔍 **Looking for** a **Junior DevOps** role
+- 🔍 **Looking for** a **DevOps** role
 - 📚 **Currently learning**: Terraform, GitHub Actions, Prometheus, Grafana
-- 🎯 **2025 Goals**:
+- 🎯 **2026 Goals**:
   - [ ] **Terraform Associate** certification
   - [ ] **LPI Linux Essentials** certification
   - [ ] **GitHub Actions** certification
