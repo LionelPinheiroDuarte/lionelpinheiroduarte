@@ -5,7 +5,7 @@ I build and automate — infrastructure, pipelines, tooling, and workflows.
 **What I work with**
  - CI/CD & automation — GitHub Actions, Docker, Terraform
  - Cloud & infra — AWS (EC2, VPC), Linux, Bash
- - Languages — Go, Python, JavaScript
+ - Languages — Python
  - Monitoring — Prometheus, Grafana
  - Dev tooling — Claude Code, custom CLI tools
 
@@ -29,10 +29,6 @@ I build and automate — infrastructure, pipelines, tooling, and workflows.
 - Docker, containerization
 - CLI tools & automation
 - Linux/Unix systems
-
-**Languages & Frameworks**
-- Python
-- HTML/CSS
 
 **Tools I love**
 - Git & GitHub
