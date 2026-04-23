@@ -9,7 +9,7 @@ I build and automate — infrastructure, pipelines, tooling, and workflows.
  - Monitoring — Prometheus, Grafana
  - Dev tooling — Claude Code, custom CLI tools
 
-** 🔧 Tools I love**
+**🔧 Tools I love**
 - Git & GitHub
 - Claude Code
 - Terminal
