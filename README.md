@@ -9,6 +9,11 @@ I build and automate — infrastructure, pipelines, tooling, and workflows.
  - Monitoring — Prometheus, Grafana
  - Dev tooling — Claude Code, custom CLI tools
 
+** 🔧 Tools I love**
+- Git & GitHub
+- Claude Code
+- Terminal
+
 **Current focus**
  Deploying a real app across VM → Docker → Kubernetes to learn
  infra and pipeline work hands-on.
@@ -21,16 +26,3 @@ I build and automate — infrastructure, pipelines, tooling, and workflows.
   - [ ] **LPI Linux Essentials** certification
   - [ ] **GitHub Actions** certification
 - ☁️ **Cloud focus**: AWS
-
-## 🛠️ My tech stack
-
-**DevOps & Cloud**
-- AWS (learning)
-- Docker, containerization
-- CLI tools & automation
-- Linux/Unix systems
-
-**Tools I love**
-- Git & GitHub
-- Claude Code
-- Terminal
