@@ -7,7 +7,6 @@ I build and automate — infrastructure, pipelines, tooling, and workflows.
  - Cloud & infra — AWS (EC2, VPC), Linux, Bash
  - Languages — Python
  - Monitoring — Prometheus, Grafana
- - Dev tooling — Claude Code, custom CLI tools
 
 **🔧 Tools I love**
 - Git & GitHub
