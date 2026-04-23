@@ -1,8 +1,20 @@
 # Hey there! 👋 I'm Lionel 
 
+I build and automate — infrastructure, pipelines, tooling, and workflows.
+
+**What I work with**
+ - CI/CD & automation — GitHub Actions, Docker, Terraform
+ - Cloud & infra — AWS (EC2, VPC), Linux, Bash
+ - Languages — Go, Python, JavaScript
+ - Monitoring — Prometheus, Grafana
+ - Dev tooling — Claude Code, custom CLI tools
+
+**Current focus**
+ Deploying a real app across VM → Docker → Kubernetes to learn
+ infra and pipeline work hands-on.
+
 ## 🚀 What I'm up to
 
-- 🔍 **Looking for** a **DevOps** role
 - 📚 **Currently learning**: Terraform, GitHub Actions, Prometheus, Grafana
 - 🎯 **2026 Goals**:
   - [ ] **Terraform Associate** certification
@@ -19,7 +31,7 @@
 - Linux/Unix systems
 
 **Languages & Frameworks**
-- Go, Bash
+- Python
 - HTML/CSS
 
 **Tools I love**
