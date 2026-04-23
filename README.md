@@ -24,5 +24,5 @@
 
 **Tools I love**
 - Git & GitHub
-- VS Code (trying out Emacs!)
+- Claude Code
 - Terminal
